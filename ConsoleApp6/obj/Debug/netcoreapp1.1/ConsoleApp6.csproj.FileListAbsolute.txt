@@ -1,0 +1,9 @@
+c:\users\seymur\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.deps.json
+c:\users\seymur\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.runtimeconfig.json
+c:\users\seymur\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.runtimeconfig.dev.json
+c:\users\seymur\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.dll
+c:\users\seymur\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp1.1\ConsoleApp6.pdb
+c:\users\seymur\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp1.1\ConsoleApp6.csprojResolveAssemblyReference.cache
+c:\users\seymur\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp1.1\ConsoleApp6.AssemblyInfo.cs
+c:\users\seymur\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp1.1\ConsoleApp6.dll
+c:\users\seymur\documents\visual studio 2017\Projects\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp1.1\ConsoleApp6.pdb
